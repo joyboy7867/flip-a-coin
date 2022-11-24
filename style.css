@@ -1,0 +1,53 @@
+body{
+
+    background-image:linear-gradient(to right,#5F8D4E,#A4BE7B);
+}
+h1{
+    font-size: 100px;
+    font-family: 'Rubik Distressed', cursive;}
+.title{
+    text-align: center;
+    
+}
+.box{
+   
+    
+    margin-left: 25%;
+    width: 50%;
+    height: 70vh;
+    
+    
+
+    text-align: center;
+    background-color: #E5D9B6;
+}
+.btn{
+    font-family:  cursive;
+    width: 40%;
+    font-weight: 300;
+    margin-top: 5%;
+    
+}
+.stats{
+
+    text-align: right;
+    font-weight: 500;
+}
+.coin{
+   width: 50%;
+   text-align: center;
+  
+   
+}
+@media (max-width:933px) {
+    .coin{
+        width: 100%;
+    }
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
+p{
+    color: #65647C;
+}
